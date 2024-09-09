@@ -118,8 +118,14 @@ body {
 .personal-information ul li,.personal-information ul li a {
     color: white;
     padding: 5px;
+    /* margin-left: -15x; */
     font-size: large;
     text-align: left;
+}
+
+.personal-information ul{
+    margin-left: -30px;
+    
 }
 
 .mainskill {
